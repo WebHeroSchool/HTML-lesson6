@@ -1,0 +1,12 @@
+.content{
+    margin: 50px;
+}
+.content__item-top{
+    margin-bottom: 60px;
+}
+.content__item-top__headline{
+    font-size: 40px;
+}
+.content__item-bottom{
+    display: flex;
+}
